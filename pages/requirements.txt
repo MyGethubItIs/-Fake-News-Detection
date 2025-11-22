@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+scikit-learn
+regex
+nltk
+vaderSentiment
+streamlit-gsheets
+joblib
+wordcloud
